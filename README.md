@@ -554,8 +554,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=ldcNcr8bX1vfQ
 
 #EXTINF:-1 tvg-chno="82",History Hd
 
-https://stationtv.cdn.rcs.net.ar/mnp/history/output.mpd
-
+https://wisp.cdn.rcs.net.ar/mnp/history/output.mpd
 
 #EXTM3U
 
